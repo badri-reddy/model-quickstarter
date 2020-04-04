@@ -1,4 +1,4 @@
-FROM java:openjdk-8
+FROM openjdk:8u242-jdk-buster
 
 MAINTAINER  DBpedia Spotlight Team <dbp-spotlight-developers@lists.sourceforge.net>
 
